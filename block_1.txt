@@ -1,0 +1,8 @@
+1eda9c9d6e64ba4cc5f233965c9b2b7fc9bd621c2b40b027369b6ead67c97186
+
+CasinoRoyale transferred 100 to ff08f2e12ab37a06 on Date: Tue, Apr 04 16:47:36 2023 EDT
+CasinoRoyale transferred 100 to 209ec2a1ab22a6d4 on Date: Tue, Apr 04 16:47:37 2023 EDT
+ff08f2e12ab37a06 transferred 12 to 209ec2a1ab22a6d4 on Date: Tue, Apr 04 16:47:37 2023 EDT
+209ec2a1ab22a6d4 transferred 2 to ff08f2e12ab37a06 on Date: Tue, Apr 04 16:47:37 2023 EDT
+
+nonce: 218
